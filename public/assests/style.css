@@ -1,0 +1,45 @@
+#securityFrame {
+    border: blue double;
+    top: 35px;
+    left: 605px;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+#pictureFrame {
+    border-style: none;
+    border: none;
+    position: fixed;
+    top: 5px;
+    left: 605px;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    background: url("http://www.gotravelpros.com/uploads/7/9/5/0/79503550/multi-gen-travel-2.jpg") 30% no-repeat;
+
+
+}
+
+.imageSpace {
+    top: 5px;
+    left: 605px;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+}
+
+
+#orgFrame {
+
+    position: fixed;
+    top: 5px;
+    left: 305px;
+    width: 600px;
+    height: 600px;
+    text-align: center;
+    z-index: -1;
+
+
+}
